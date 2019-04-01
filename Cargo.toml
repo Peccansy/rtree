@@ -1,0 +1,7 @@
+[package]
+name = "rtree"
+version = "0.1.0"
+authors = ["Albert Nikulshin <nox-wave@yandex-team.ru>"]
+edition = "2018"
+
+[dependencies]
