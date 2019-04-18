@@ -2,6 +2,8 @@ use std::fs;
 use std::env;
 use std::path::Path;
 
+mod tree;
+
 #[derive(Debug)]
 struct Node {
     name: String,
